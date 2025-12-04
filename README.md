@@ -38,27 +38,27 @@ python process_speech_commands_data.py \
 
 ## Temporal Convolution Resnet
 _Temporal Convolution for Real-time Keyword Spotting on Mobile Devices_
-[[Paper]](https://arxiv.org/abs/1904.03814) [[Code]](KWM/TorchKWS/networks/tcresnet.py)
+[[Paper]](https://arxiv.org/abs/1904.03814) [[Code]](TorchKWS/networks/tcresnet.py)
 
 ## Broadcasting Residual Network
 _Broadcasted Residual Learning for Efficient Keyword Spotting_
-[[Paper]](https://arxiv.org/abs/2106.04140) [[Code]](KWM/TorchKWS/networks/bcresnet.py)
+[[Paper]](https://arxiv.org/abs/2106.04140) [[Code]](TorchKWS/networks/bcresnet.py)
 
 ## MatchboxNet
 _MatchboxNet: 1D Time-Channel Separable Convolutional Neural Network Architecture for Speech Commands Recognition_
-[[Paper]](https://arxiv.org/abs/2004.08531) [[Code]](KWM/TorchKWS/networks/matchboxnet.py)
+[[Paper]](https://arxiv.org/abs/2004.08531) [[Code]](TorchKWS/networks/matchboxnet.py)
 
 ## ConvMixer
 _ConvMixer: Feature Interactive Convolution with Curriculum Learning for Small Footprint and Noisy Far-field Keyword Spotting_
-[[Paper]](https://arxiv.org/abs/2201.05863) [[Code]](KWM/TorchKWS/networks/convmixer.py)
+[[Paper]](https://arxiv.org/abs/2201.05863) [[Code]](TorchKWS/networks/convmixer.py)
 
 ## KWT
 _Keyword Transformer: A self-attention model for keyword spotting_
-[[Paper]](https://arxiv.org/abs/2104.00769) [[Code]](KWM/TorchKWS/networks/kwt.py)
+[[Paper]](https://arxiv.org/abs/2104.00769) [[Code]](TorchKWS/networks/kwt.py)
 
 ## KWM
 _Keyword Mamba: Keyword Mamba: Spoken keyword spotting with state space models_
-[[Paper]](https://www.sciencedirect.com/science/article/pii/S0885230825001342?ref=pdf_download&fr=RR-2&rr=9a8a059348989547) [[Code]](KWM/TorchKWS/networks/kwm/kwm.py)
+[[Paper]](https://www.sciencedirect.com/science/article/pii/S0885230825001342?ref=pdf_download&fr=RR-2&rr=9a8a059348989547) [[Code]](TorchKWS/networks/kwm/kwm.py)
 
 # Reference
 1. https://github.com/hyperconnect/TC-ResNet
