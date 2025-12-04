@@ -1,0 +1,243 @@
+[INFO] main.py:73 > [1] Select a KWS dataset (gsc_v1)
+[INFO] main.py:78 > [2] Load the KWS dataset from /root/autodl-tmp/SpeechCommands/gsc_v1
+[INFO] main.py:85 > [3] Select a KWS model (kwmt-192-12_v1_17)
+[INFO] main.py:86 > kwmt-192-12_v1_17 parameters: 5192844
+[INFO] train.py:108 > [3] Training for 200 epochs...
+[INFO] train.py:97 > Saving the best model with accuracy 0.2786
+[INFO] train.py:156 > Epoch 1/200 | train_loss 2.4029 | train_acc 15.2411 | valid_loss 2.1393 | valid_accuracy 27.8646 | lr 0.0001
+[INFO] train.py:97 > Saving the best model with accuracy 0.4248
+[INFO] train.py:156 > Epoch 2/200 | train_loss 2.1546 | train_acc 27.2399 | valid_loss 1.8286 | valid_accuracy 42.4805 | lr 0.0002
+[INFO] train.py:97 > Saving the best model with accuracy 0.5804
+[INFO] train.py:156 > Epoch 3/200 | train_loss 1.9290 | train_acc 38.0916 | valid_loss 1.4838 | valid_accuracy 58.0404 | lr 0.0003
+[INFO] train.py:97 > Saving the best model with accuracy 0.7292
+[INFO] train.py:156 > Epoch 4/200 | train_loss 1.7013 | train_acc 48.6814 | valid_loss 1.1810 | valid_accuracy 72.9167 | lr 0.0004
+[INFO] train.py:97 > Saving the best model with accuracy 0.8441
+[INFO] train.py:156 > Epoch 5/200 | train_loss 1.4662 | train_acc 60.0795 | valid_loss 0.9325 | valid_accuracy 84.4076 | lr 0.0005
+[INFO] train.py:97 > Saving the best model with accuracy 0.8828
+[INFO] train.py:156 > Epoch 6/200 | train_loss 1.3074 | train_acc 67.0746 | valid_loss 0.8500 | valid_accuracy 88.2812 | lr 0.0006
+[INFO] train.py:97 > Saving the best model with accuracy 0.8958
+[INFO] train.py:156 > Epoch 7/200 | train_loss 1.2195 | train_acc 71.6582 | valid_loss 0.8104 | valid_accuracy 89.5833 | lr 0.0007
+[INFO] train.py:97 > Saving the best model with accuracy 0.9199
+[INFO] train.py:156 > Epoch 8/200 | train_loss 1.1652 | train_acc 73.7446 | valid_loss 0.7647 | valid_accuracy 91.9922 | lr 0.0008
+[INFO] train.py:156 > Epoch 9/200 | train_loss 1.1257 | train_acc 75.4877 | valid_loss 0.7612 | valid_accuracy 91.8294 | lr 0.0009
+[INFO] train.py:97 > Saving the best model with accuracy 0.9248
+[INFO] train.py:156 > Epoch 10/200 | train_loss 1.0893 | train_acc 77.1767 | valid_loss 0.7379 | valid_accuracy 92.4805 | lr 0.0010
+[INFO] train.py:97 > Saving the best model with accuracy 0.9307
+[INFO] train.py:156 > Epoch 11/200 | train_loss 1.0552 | train_acc 78.6940 | valid_loss 0.7272 | valid_accuracy 93.0664 | lr 0.0010
+[INFO] train.py:97 > Saving the best model with accuracy 0.9310
+[INFO] train.py:156 > Epoch 12/200 | train_loss 1.0197 | train_acc 80.1797 | valid_loss 0.7202 | valid_accuracy 93.0990 | lr 0.0010
+[INFO] train.py:97 > Saving the best model with accuracy 0.9450
+[INFO] train.py:156 > Epoch 13/200 | train_loss 0.9962 | train_acc 81.1507 | valid_loss 0.7007 | valid_accuracy 94.4987 | lr 0.0010
+[INFO] train.py:156 > Epoch 14/200 | train_loss 0.9853 | train_acc 82.0719 | valid_loss 0.7239 | valid_accuracy 93.1966 | lr 0.0010
+[INFO] train.py:97 > Saving the best model with accuracy 0.9456
+[INFO] train.py:156 > Epoch 15/200 | train_loss 0.9763 | train_acc 82.1848 | valid_loss 0.7000 | valid_accuracy 94.5638 | lr 0.0010
+[INFO] train.py:97 > Saving the best model with accuracy 0.9538
+[INFO] train.py:156 > Epoch 16/200 | train_loss 0.9531 | train_acc 83.1467 | valid_loss 0.6765 | valid_accuracy 95.3776 | lr 0.0010
+[INFO] train.py:156 > Epoch 17/200 | train_loss 0.9405 | train_acc 83.8060 | valid_loss 0.6812 | valid_accuracy 94.9870 | lr 0.0010
+[INFO] train.py:156 > Epoch 18/200 | train_loss 0.9310 | train_acc 83.8241 | valid_loss 0.6739 | valid_accuracy 95.2148 | lr 0.0010
+[INFO] train.py:97 > Saving the best model with accuracy 0.9561
+[INFO] train.py:156 > Epoch 19/200 | train_loss 0.9218 | train_acc 84.3885 | valid_loss 0.6697 | valid_accuracy 95.6055 | lr 0.0010
+[INFO] train.py:156 > Epoch 20/200 | train_loss 0.9114 | train_acc 84.8988 | valid_loss 0.6670 | valid_accuracy 95.4753 | lr 0.0010
+[INFO] train.py:156 > Epoch 21/200 | train_loss 0.9064 | train_acc 85.1472 | valid_loss 0.6740 | valid_accuracy 95.1172 | lr 0.0010
+[INFO] train.py:97 > Saving the best model with accuracy 0.9587
+[INFO] train.py:156 > Epoch 22/200 | train_loss 0.8998 | train_acc 85.5220 | valid_loss 0.6656 | valid_accuracy 95.8659 | lr 0.0010
+[INFO] train.py:156 > Epoch 23/200 | train_loss 0.9187 | train_acc 84.6776 | valid_loss 0.6701 | valid_accuracy 95.3125 | lr 0.0010
+[INFO] train.py:156 > Epoch 24/200 | train_loss 0.8980 | train_acc 85.4091 | valid_loss 0.6700 | valid_accuracy 95.5729 | lr 0.0010
+[INFO] train.py:97 > Saving the best model with accuracy 0.9600
+[INFO] train.py:156 > Epoch 25/200 | train_loss 0.8887 | train_acc 86.0549 | valid_loss 0.6592 | valid_accuracy 95.9961 | lr 0.0010
+[INFO] train.py:97 > Saving the best model with accuracy 0.9603
+[INFO] train.py:156 > Epoch 26/200 | train_loss 0.8731 | train_acc 86.4297 | valid_loss 0.6585 | valid_accuracy 96.0286 | lr 0.0010
+[INFO] train.py:97 > Saving the best model with accuracy 0.9609
+[INFO] train.py:156 > Epoch 27/200 | train_loss 0.8809 | train_acc 86.2446 | valid_loss 0.6566 | valid_accuracy 96.0938 | lr 0.0010
+[INFO] train.py:97 > Saving the best model with accuracy 0.9648
+[INFO] train.py:156 > Epoch 28/200 | train_loss 0.8734 | train_acc 86.3710 | valid_loss 0.6501 | valid_accuracy 96.4844 | lr 0.0010
+[INFO] train.py:156 > Epoch 29/200 | train_loss 0.8740 | train_acc 86.6013 | valid_loss 0.6556 | valid_accuracy 95.9961 | lr 0.0010
+[INFO] train.py:156 > Epoch 30/200 | train_loss 0.8684 | train_acc 86.5471 | valid_loss 0.6535 | valid_accuracy 96.2240 | lr 0.0010
+[INFO] train.py:97 > Saving the best model with accuracy 0.9674
+[INFO] train.py:156 > Epoch 31/200 | train_loss 0.8579 | train_acc 87.0845 | valid_loss 0.6534 | valid_accuracy 96.7448 | lr 0.0010
+[INFO] train.py:97 > Saving the best model with accuracy 0.9701
+[INFO] train.py:156 > Epoch 32/200 | train_loss 0.8627 | train_acc 86.9536 | valid_loss 0.6382 | valid_accuracy 97.0052 | lr 0.0010
+[INFO] train.py:156 > Epoch 33/200 | train_loss 0.8584 | train_acc 87.2832 | valid_loss 0.6490 | valid_accuracy 96.1914 | lr 0.0010
+[INFO] train.py:156 > Epoch 34/200 | train_loss 0.8560 | train_acc 87.1432 | valid_loss 0.6474 | valid_accuracy 96.8099 | lr 0.0010
+[INFO] train.py:156 > Epoch 35/200 | train_loss 0.8501 | train_acc 87.3555 | valid_loss 0.6457 | valid_accuracy 96.8750 | lr 0.0010
+[INFO] train.py:156 > Epoch 36/200 | train_loss 0.8458 | train_acc 87.8793 | valid_loss 0.6510 | valid_accuracy 96.5495 | lr 0.0010
+[INFO] train.py:156 > Epoch 37/200 | train_loss 0.8375 | train_acc 88.1774 | valid_loss 0.6484 | valid_accuracy 96.2240 | lr 0.0010
+[INFO] train.py:156 > Epoch 38/200 | train_loss 0.8401 | train_acc 87.9877 | valid_loss 0.6526 | valid_accuracy 96.2891 | lr 0.0009
+[INFO] train.py:156 > Epoch 39/200 | train_loss 0.8410 | train_acc 87.9877 | valid_loss 0.6510 | valid_accuracy 96.2565 | lr 0.0009
+[INFO] train.py:156 > Epoch 40/200 | train_loss 0.8345 | train_acc 88.0464 | valid_loss 0.6586 | valid_accuracy 96.1914 | lr 0.0009
+[INFO] train.py:156 > Epoch 41/200 | train_loss 0.8370 | train_acc 88.0780 | valid_loss 0.6457 | valid_accuracy 96.5169 | lr 0.0009
+[INFO] train.py:156 > Epoch 42/200 | train_loss 0.8345 | train_acc 88.2767 | valid_loss 0.6409 | valid_accuracy 96.6471 | lr 0.0009
+[INFO] train.py:156 > Epoch 43/200 | train_loss 0.8255 | train_acc 88.6561 | valid_loss 0.6479 | valid_accuracy 96.7122 | lr 0.0009
+[INFO] train.py:156 > Epoch 44/200 | train_loss 0.8245 | train_acc 88.5341 | valid_loss 0.6431 | valid_accuracy 96.7773 | lr 0.0009
+[INFO] train.py:156 > Epoch 45/200 | train_loss 0.8273 | train_acc 88.3309 | valid_loss 0.6492 | valid_accuracy 96.4518 | lr 0.0009
+[INFO] train.py:156 > Epoch 46/200 | train_loss 0.8213 | train_acc 88.7012 | valid_loss 0.6494 | valid_accuracy 96.3542 | lr 0.0009
+[INFO] train.py:156 > Epoch 47/200 | train_loss 0.8232 | train_acc 88.6832 | valid_loss 0.6408 | valid_accuracy 96.7773 | lr 0.0009
+[INFO] train.py:156 > Epoch 48/200 | train_loss 0.8213 | train_acc 88.8367 | valid_loss 0.6569 | valid_accuracy 96.0286 | lr 0.0009
+[INFO] train.py:156 > Epoch 49/200 | train_loss 0.8207 | train_acc 88.8412 | valid_loss 0.6386 | valid_accuracy 96.8424 | lr 0.0009
+[INFO] train.py:156 > Epoch 50/200 | train_loss 0.8209 | train_acc 88.8186 | valid_loss 0.6413 | valid_accuracy 96.9076 | lr 0.0009
+[INFO] train.py:156 > Epoch 51/200 | train_loss 0.8170 | train_acc 88.6741 | valid_loss 0.6357 | valid_accuracy 96.7773 | lr 0.0009
+[INFO] train.py:156 > Epoch 52/200 | train_loss 0.8219 | train_acc 88.5251 | valid_loss 0.6452 | valid_accuracy 96.5169 | lr 0.0009
+[INFO] train.py:156 > Epoch 53/200 | train_loss 0.8145 | train_acc 89.1077 | valid_loss 0.6420 | valid_accuracy 96.6471 | lr 0.0009
+[INFO] train.py:156 > Epoch 54/200 | train_loss 0.8061 | train_acc 89.4825 | valid_loss 0.6404 | valid_accuracy 96.5495 | lr 0.0009
+[INFO] train.py:156 > Epoch 55/200 | train_loss 0.8082 | train_acc 89.4780 | valid_loss 0.6496 | valid_accuracy 96.3542 | lr 0.0009
+[INFO] train.py:156 > Epoch 56/200 | train_loss 0.8056 | train_acc 89.6134 | valid_loss 0.6441 | valid_accuracy 96.5820 | lr 0.0009
+[INFO] train.py:156 > Epoch 57/200 | train_loss 0.8078 | train_acc 89.2567 | valid_loss 0.6480 | valid_accuracy 96.5820 | lr 0.0009
+[INFO] train.py:156 > Epoch 58/200 | train_loss 0.8098 | train_acc 89.2702 | valid_loss 0.6471 | valid_accuracy 96.4193 | lr 0.0009
+[INFO] train.py:156 > Epoch 59/200 | train_loss 0.7994 | train_acc 89.7354 | valid_loss 0.6419 | valid_accuracy 96.8099 | lr 0.0008
+[INFO] train.py:156 > Epoch 60/200 | train_loss 0.8028 | train_acc 89.4373 | valid_loss 0.6418 | valid_accuracy 96.8424 | lr 0.0008
+[INFO] train.py:156 > Epoch 61/200 | train_loss 0.8056 | train_acc 89.2838 | valid_loss 0.6395 | valid_accuracy 96.8750 | lr 0.0008
+[INFO] train.py:156 > Epoch 62/200 | train_loss 0.8077 | train_acc 89.5141 | valid_loss 0.6489 | valid_accuracy 96.7448 | lr 0.0008
+[INFO] train.py:156 > Epoch 63/200 | train_loss 0.7962 | train_acc 89.9612 | valid_loss 0.6414 | valid_accuracy 96.7448 | lr 0.0008
+[INFO] train.py:156 > Epoch 64/200 | train_loss 0.7977 | train_acc 89.6721 | valid_loss 0.6397 | valid_accuracy 96.7122 | lr 0.0008
+[INFO] train.py:156 > Epoch 65/200 | train_loss 0.7901 | train_acc 90.0831 | valid_loss 0.6487 | valid_accuracy 96.3216 | lr 0.0008
+[INFO] train.py:156 > Epoch 66/200 | train_loss 0.7916 | train_acc 89.9612 | valid_loss 0.6430 | valid_accuracy 96.7448 | lr 0.0008
+[INFO] train.py:156 > Epoch 67/200 | train_loss 0.7974 | train_acc 89.7941 | valid_loss 0.6444 | valid_accuracy 96.8750 | lr 0.0008
+[INFO] train.py:156 > Epoch 68/200 | train_loss 0.7847 | train_acc 90.4489 | valid_loss 0.6452 | valid_accuracy 96.7773 | lr 0.0008
+[INFO] train.py:156 > Epoch 69/200 | train_loss 0.7861 | train_acc 90.0650 | valid_loss 0.6460 | valid_accuracy 96.3542 | lr 0.0008
+[INFO] train.py:156 > Epoch 70/200 | train_loss 0.7898 | train_acc 90.0695 | valid_loss 0.6360 | valid_accuracy 97.0052 | lr 0.0008
+[INFO] train.py:156 > Epoch 71/200 | train_loss 0.7847 | train_acc 90.4579 | valid_loss 0.6534 | valid_accuracy 96.3867 | lr 0.0008
+[INFO] train.py:156 > Epoch 72/200 | train_loss 0.7892 | train_acc 89.9747 | valid_loss 0.6321 | valid_accuracy 96.9727 | lr 0.0008
+[INFO] train.py:156 > Epoch 73/200 | train_loss 0.7870 | train_acc 90.2095 | valid_loss 0.6400 | valid_accuracy 96.9727 | lr 0.0008
+[INFO] train.py:156 > Epoch 74/200 | train_loss 0.7793 | train_acc 90.6250 | valid_loss 0.6369 | valid_accuracy 96.8750 | lr 0.0007
+[INFO] train.py:97 > Saving the best model with accuracy 0.9704
+[INFO] train.py:156 > Epoch 75/200 | train_loss 0.7826 | train_acc 90.4579 | valid_loss 0.6381 | valid_accuracy 97.0378 | lr 0.0007
+[INFO] train.py:156 > Epoch 76/200 | train_loss 0.7829 | train_acc 90.4986 | valid_loss 0.6366 | valid_accuracy 96.6797 | lr 0.0007
+[INFO] train.py:156 > Epoch 77/200 | train_loss 0.7887 | train_acc 90.2141 | valid_loss 0.6374 | valid_accuracy 96.7773 | lr 0.0007
+[INFO] train.py:156 > Epoch 78/200 | train_loss 0.7790 | train_acc 90.5437 | valid_loss 0.6352 | valid_accuracy 97.0378 | lr 0.0007
+[INFO] train.py:156 > Epoch 79/200 | train_loss 0.7823 | train_acc 90.3495 | valid_loss 0.6368 | valid_accuracy 97.0378 | lr 0.0007
+[INFO] train.py:156 > Epoch 80/200 | train_loss 0.7723 | train_acc 90.8102 | valid_loss 0.6383 | valid_accuracy 96.9076 | lr 0.0007
+[INFO] train.py:97 > Saving the best model with accuracy 0.9707
+[INFO] train.py:156 > Epoch 81/200 | train_loss 0.7745 | train_acc 90.6385 | valid_loss 0.6334 | valid_accuracy 97.0703 | lr 0.0007
+[INFO] train.py:97 > Saving the best model with accuracy 0.9723
+[INFO] train.py:156 > Epoch 82/200 | train_loss 0.7790 | train_acc 90.5076 | valid_loss 0.6292 | valid_accuracy 97.2331 | lr 0.0007
+[INFO] train.py:97 > Saving the best model with accuracy 0.9740
+[INFO] train.py:156 > Epoch 83/200 | train_loss 0.7694 | train_acc 91.1443 | valid_loss 0.6338 | valid_accuracy 97.3958 | lr 0.0007
+[INFO] train.py:156 > Epoch 84/200 | train_loss 0.7753 | train_acc 90.7424 | valid_loss 0.6362 | valid_accuracy 96.9401 | lr 0.0007
+[INFO] train.py:156 > Epoch 85/200 | train_loss 0.7709 | train_acc 90.9140 | valid_loss 0.6323 | valid_accuracy 97.0378 | lr 0.0007
+[INFO] train.py:156 > Epoch 86/200 | train_loss 0.7743 | train_acc 90.7469 | valid_loss 0.6324 | valid_accuracy 97.0703 | lr 0.0007
+[INFO] train.py:156 > Epoch 87/200 | train_loss 0.7742 | train_acc 90.6115 | valid_loss 0.6343 | valid_accuracy 97.1354 | lr 0.0006
+[INFO] train.py:156 > Epoch 88/200 | train_loss 0.7687 | train_acc 90.9998 | valid_loss 0.6411 | valid_accuracy 96.9727 | lr 0.0006
+[INFO] train.py:156 > Epoch 89/200 | train_loss 0.7663 | train_acc 91.1805 | valid_loss 0.6292 | valid_accuracy 97.1680 | lr 0.0006
+[INFO] train.py:156 > Epoch 90/200 | train_loss 0.7623 | train_acc 91.2663 | valid_loss 0.6301 | valid_accuracy 97.2656 | lr 0.0006
+[INFO] train.py:156 > Epoch 91/200 | train_loss 0.7701 | train_acc 90.9140 | valid_loss 0.6345 | valid_accuracy 96.9727 | lr 0.0006
+[INFO] train.py:156 > Epoch 92/200 | train_loss 0.7575 | train_acc 91.4559 | valid_loss 0.6306 | valid_accuracy 97.2982 | lr 0.0006
+[INFO] train.py:156 > Epoch 93/200 | train_loss 0.7626 | train_acc 91.3295 | valid_loss 0.6345 | valid_accuracy 97.0703 | lr 0.0006
+[INFO] train.py:156 > Epoch 94/200 | train_loss 0.7665 | train_acc 90.8824 | valid_loss 0.6392 | valid_accuracy 97.1029 | lr 0.0006
+[INFO] train.py:156 > Epoch 95/200 | train_loss 0.7659 | train_acc 90.9592 | valid_loss 0.6325 | valid_accuracy 97.1029 | lr 0.0006
+[INFO] train.py:156 > Epoch 96/200 | train_loss 0.7543 | train_acc 91.6230 | valid_loss 0.6345 | valid_accuracy 97.2005 | lr 0.0006
+[INFO] train.py:156 > Epoch 97/200 | train_loss 0.7576 | train_acc 91.3611 | valid_loss 0.6638 | valid_accuracy 96.4193 | lr 0.0006
+[INFO] train.py:156 > Epoch 98/200 | train_loss 0.7640 | train_acc 91.1624 | valid_loss 0.6380 | valid_accuracy 96.9401 | lr 0.0006
+[INFO] train.py:156 > Epoch 99/200 | train_loss 0.7600 | train_acc 91.4333 | valid_loss 0.6321 | valid_accuracy 97.3633 | lr 0.0005
+[INFO] train.py:156 > Epoch 100/200 | train_loss 0.7605 | train_acc 91.2482 | valid_loss 0.6350 | valid_accuracy 97.1354 | lr 0.0005
+[INFO] train.py:156 > Epoch 101/200 | train_loss 0.7595 | train_acc 91.4153 | valid_loss 0.6375 | valid_accuracy 96.9076 | lr 0.0005
+[INFO] train.py:156 > Epoch 102/200 | train_loss 0.7534 | train_acc 91.7133 | valid_loss 0.6299 | valid_accuracy 97.2656 | lr 0.0005
+[INFO] train.py:156 > Epoch 103/200 | train_loss 0.7489 | train_acc 91.9120 | valid_loss 0.6333 | valid_accuracy 97.2331 | lr 0.0005
+[INFO] train.py:156 > Epoch 104/200 | train_loss 0.7471 | train_acc 91.7766 | valid_loss 0.6394 | valid_accuracy 96.9727 | lr 0.0005
+[INFO] train.py:156 > Epoch 105/200 | train_loss 0.7506 | train_acc 91.9391 | valid_loss 0.6325 | valid_accuracy 97.1680 | lr 0.0005
+[INFO] train.py:156 > Epoch 106/200 | train_loss 0.7450 | train_acc 92.0656 | valid_loss 0.6280 | valid_accuracy 97.1680 | lr 0.0005
+[INFO] train.py:156 > Epoch 107/200 | train_loss 0.7498 | train_acc 91.7449 | valid_loss 0.6343 | valid_accuracy 97.0378 | lr 0.0005
+[INFO] train.py:156 > Epoch 108/200 | train_loss 0.7513 | train_acc 91.7495 | valid_loss 0.6298 | valid_accuracy 97.3307 | lr 0.0005
+[INFO] train.py:156 > Epoch 109/200 | train_loss 0.7469 | train_acc 91.9346 | valid_loss 0.6280 | valid_accuracy 97.2656 | lr 0.0005
+[INFO] train.py:156 > Epoch 110/200 | train_loss 0.7430 | train_acc 92.0520 | valid_loss 0.6367 | valid_accuracy 97.2005 | lr 0.0005
+[INFO] train.py:156 > Epoch 111/200 | train_loss 0.7476 | train_acc 91.9165 | valid_loss 0.6314 | valid_accuracy 97.2656 | lr 0.0005
+[INFO] train.py:156 > Epoch 112/200 | train_loss 0.7422 | train_acc 92.1514 | valid_loss 0.6313 | valid_accuracy 97.2982 | lr 0.0004
+[INFO] train.py:97 > Saving the best model with accuracy 0.9743
+[INFO] train.py:156 > Epoch 113/200 | train_loss 0.7449 | train_acc 91.8262 | valid_loss 0.6282 | valid_accuracy 97.4284 | lr 0.0004
+[INFO] train.py:156 > Epoch 114/200 | train_loss 0.7462 | train_acc 91.9256 | valid_loss 0.6348 | valid_accuracy 97.0703 | lr 0.0004
+[INFO] train.py:156 > Epoch 115/200 | train_loss 0.7412 | train_acc 92.2959 | valid_loss 0.6328 | valid_accuracy 97.2656 | lr 0.0004
+[INFO] train.py:156 > Epoch 116/200 | train_loss 0.7405 | train_acc 92.1559 | valid_loss 0.6305 | valid_accuracy 97.2656 | lr 0.0004
+[INFO] train.py:156 > Epoch 117/200 | train_loss 0.7376 | train_acc 92.2914 | valid_loss 0.6343 | valid_accuracy 97.2331 | lr 0.0004
+[INFO] train.py:156 > Epoch 118/200 | train_loss 0.7405 | train_acc 92.0430 | valid_loss 0.6323 | valid_accuracy 97.3958 | lr 0.0004
+[INFO] train.py:156 > Epoch 119/200 | train_loss 0.7369 | train_acc 92.4449 | valid_loss 0.6364 | valid_accuracy 97.0378 | lr 0.0004
+[INFO] train.py:156 > Epoch 120/200 | train_loss 0.7375 | train_acc 92.2010 | valid_loss 0.6352 | valid_accuracy 97.3307 | lr 0.0004
+[INFO] train.py:156 > Epoch 121/200 | train_loss 0.7296 | train_acc 92.6075 | valid_loss 0.6368 | valid_accuracy 96.9401 | lr 0.0004
+[INFO] train.py:156 > Epoch 122/200 | train_loss 0.7373 | train_acc 92.2688 | valid_loss 0.6320 | valid_accuracy 97.2656 | lr 0.0004
+[INFO] train.py:156 > Epoch 123/200 | train_loss 0.7282 | train_acc 92.7023 | valid_loss 0.6344 | valid_accuracy 97.1680 | lr 0.0004
+[INFO] train.py:156 > Epoch 124/200 | train_loss 0.7292 | train_acc 92.7701 | valid_loss 0.6312 | valid_accuracy 97.3633 | lr 0.0003
+[INFO] train.py:156 > Epoch 125/200 | train_loss 0.7355 | train_acc 92.3591 | valid_loss 0.6283 | valid_accuracy 97.4284 | lr 0.0003
+[INFO] train.py:156 > Epoch 126/200 | train_loss 0.7285 | train_acc 92.6346 | valid_loss 0.6301 | valid_accuracy 97.2005 | lr 0.0003
+[INFO] train.py:156 > Epoch 127/200 | train_loss 0.7289 | train_acc 92.6797 | valid_loss 0.6264 | valid_accuracy 97.3307 | lr 0.0003
+[INFO] train.py:156 > Epoch 128/200 | train_loss 0.7337 | train_acc 92.4585 | valid_loss 0.6299 | valid_accuracy 97.3307 | lr 0.0003
+[INFO] train.py:97 > Saving the best model with accuracy 0.9749
+[INFO] train.py:156 > Epoch 129/200 | train_loss 0.7285 | train_acc 92.6526 | valid_loss 0.6262 | valid_accuracy 97.4935 | lr 0.0003
+[INFO] train.py:156 > Epoch 130/200 | train_loss 0.7273 | train_acc 92.7339 | valid_loss 0.6261 | valid_accuracy 97.4284 | lr 0.0003
+[INFO] train.py:156 > Epoch 131/200 | train_loss 0.7223 | train_acc 93.1133 | valid_loss 0.6256 | valid_accuracy 97.2982 | lr 0.0003
+[INFO] train.py:156 > Epoch 132/200 | train_loss 0.7246 | train_acc 92.9100 | valid_loss 0.6273 | valid_accuracy 97.2982 | lr 0.0003
+[INFO] train.py:97 > Saving the best model with accuracy 0.9759
+[INFO] train.py:156 > Epoch 133/200 | train_loss 0.7226 | train_acc 92.9371 | valid_loss 0.6305 | valid_accuracy 97.5911 | lr 0.0003
+[INFO] train.py:156 > Epoch 134/200 | train_loss 0.7227 | train_acc 93.0275 | valid_loss 0.6269 | valid_accuracy 97.4284 | lr 0.0003
+[INFO] train.py:156 > Epoch 135/200 | train_loss 0.7240 | train_acc 92.8333 | valid_loss 0.6227 | valid_accuracy 97.5260 | lr 0.0003
+[INFO] train.py:97 > Saving the best model with accuracy 0.9769
+[INFO] train.py:156 > Epoch 136/200 | train_loss 0.7208 | train_acc 92.9146 | valid_loss 0.6230 | valid_accuracy 97.6888 | lr 0.0003
+[INFO] train.py:156 > Epoch 137/200 | train_loss 0.7208 | train_acc 93.0681 | valid_loss 0.6243 | valid_accuracy 97.4935 | lr 0.0002
+[INFO] train.py:156 > Epoch 138/200 | train_loss 0.7156 | train_acc 93.1855 | valid_loss 0.6243 | valid_accuracy 97.5911 | lr 0.0002
+[INFO] train.py:156 > Epoch 139/200 | train_loss 0.7233 | train_acc 92.7791 | valid_loss 0.6216 | valid_accuracy 97.5260 | lr 0.0002
+[INFO] train.py:97 > Saving the best model with accuracy 0.9775
+[INFO] train.py:156 > Epoch 140/200 | train_loss 0.7144 | train_acc 93.3074 | valid_loss 0.6173 | valid_accuracy 97.7539 | lr 0.0002
+[INFO] train.py:156 > Epoch 141/200 | train_loss 0.7172 | train_acc 93.1404 | valid_loss 0.6207 | valid_accuracy 97.6888 | lr 0.0002
+[INFO] train.py:156 > Epoch 142/200 | train_loss 0.7148 | train_acc 93.3661 | valid_loss 0.6219 | valid_accuracy 97.6562 | lr 0.0002
+[INFO] train.py:156 > Epoch 143/200 | train_loss 0.7130 | train_acc 93.2668 | valid_loss 0.6231 | valid_accuracy 97.7539 | lr 0.0002
+[INFO] train.py:156 > Epoch 144/200 | train_loss 0.7159 | train_acc 93.2939 | valid_loss 0.6206 | valid_accuracy 97.6888 | lr 0.0002
+[INFO] train.py:156 > Epoch 145/200 | train_loss 0.7121 | train_acc 93.4113 | valid_loss 0.6258 | valid_accuracy 97.4935 | lr 0.0002
+[INFO] train.py:156 > Epoch 146/200 | train_loss 0.7122 | train_acc 93.3842 | valid_loss 0.6258 | valid_accuracy 97.4935 | lr 0.0002
+[INFO] train.py:156 > Epoch 147/200 | train_loss 0.7049 | train_acc 93.8810 | valid_loss 0.6227 | valid_accuracy 97.6562 | lr 0.0002
+[INFO] train.py:156 > Epoch 148/200 | train_loss 0.7109 | train_acc 93.4158 | valid_loss 0.6240 | valid_accuracy 97.7539 | lr 0.0002
+[INFO] train.py:156 > Epoch 149/200 | train_loss 0.7103 | train_acc 93.3661 | valid_loss 0.6242 | valid_accuracy 97.4609 | lr 0.0002
+[INFO] train.py:156 > Epoch 150/200 | train_loss 0.7068 | train_acc 93.5152 | valid_loss 0.6245 | valid_accuracy 97.4935 | lr 0.0002
+[INFO] train.py:156 > Epoch 151/200 | train_loss 0.7074 | train_acc 93.5378 | valid_loss 0.6213 | valid_accuracy 97.5260 | lr 0.0002
+[INFO] train.py:156 > Epoch 152/200 | train_loss 0.7062 | train_acc 93.6326 | valid_loss 0.6228 | valid_accuracy 97.6888 | lr 0.0001
+[INFO] train.py:97 > Saving the best model with accuracy 0.9779
+[INFO] train.py:156 > Epoch 153/200 | train_loss 0.7016 | train_acc 93.8855 | valid_loss 0.6198 | valid_accuracy 97.7865 | lr 0.0001
+[INFO] train.py:97 > Saving the best model with accuracy 0.9782
+[INFO] train.py:156 > Epoch 154/200 | train_loss 0.7018 | train_acc 93.8539 | valid_loss 0.6181 | valid_accuracy 97.8190 | lr 0.0001
+[INFO] train.py:97 > Saving the best model with accuracy 0.9785
+[INFO] train.py:156 > Epoch 155/200 | train_loss 0.7080 | train_acc 93.4881 | valid_loss 0.6203 | valid_accuracy 97.8516 | lr 0.0001
+[INFO] train.py:156 > Epoch 156/200 | train_loss 0.7041 | train_acc 93.7681 | valid_loss 0.6223 | valid_accuracy 97.6888 | lr 0.0001
+[INFO] train.py:156 > Epoch 157/200 | train_loss 0.7056 | train_acc 93.7048 | valid_loss 0.6197 | valid_accuracy 97.7539 | lr 0.0001
+[INFO] train.py:156 > Epoch 158/200 | train_loss 0.6992 | train_acc 93.9939 | valid_loss 0.6214 | valid_accuracy 97.7214 | lr 0.0001
+[INFO] train.py:156 > Epoch 159/200 | train_loss 0.6996 | train_acc 94.0255 | valid_loss 0.6207 | valid_accuracy 97.7539 | lr 0.0001
+[INFO] train.py:156 > Epoch 160/200 | train_loss 0.7034 | train_acc 93.7365 | valid_loss 0.6262 | valid_accuracy 97.5586 | lr 0.0001
+[INFO] train.py:156 > Epoch 161/200 | train_loss 0.7016 | train_acc 93.8448 | valid_loss 0.6230 | valid_accuracy 97.7865 | lr 0.0001
+[INFO] train.py:156 > Epoch 162/200 | train_loss 0.7008 | train_acc 93.8764 | valid_loss 0.6224 | valid_accuracy 97.7214 | lr 0.0001
+[INFO] train.py:156 > Epoch 163/200 | train_loss 0.6979 | train_acc 93.9487 | valid_loss 0.6222 | valid_accuracy 97.6562 | lr 0.0001
+[INFO] train.py:156 > Epoch 164/200 | train_loss 0.6949 | train_acc 94.0435 | valid_loss 0.6239 | valid_accuracy 97.7214 | lr 0.0001
+[INFO] train.py:156 > Epoch 165/200 | train_loss 0.6986 | train_acc 93.8674 | valid_loss 0.6231 | valid_accuracy 97.6562 | lr 0.0001
+[INFO] train.py:156 > Epoch 166/200 | train_loss 0.6957 | train_acc 94.0616 | valid_loss 0.6251 | valid_accuracy 97.5911 | lr 0.0001
+[INFO] train.py:156 > Epoch 167/200 | train_loss 0.6941 | train_acc 94.3009 | valid_loss 0.6237 | valid_accuracy 97.6237 | lr 0.0001
+[INFO] train.py:156 > Epoch 168/200 | train_loss 0.6908 | train_acc 94.3190 | valid_loss 0.6258 | valid_accuracy 97.5260 | lr 0.0001
+[INFO] train.py:156 > Epoch 169/200 | train_loss 0.6953 | train_acc 94.1655 | valid_loss 0.6251 | valid_accuracy 97.5586 | lr 0.0001
+[INFO] train.py:156 > Epoch 170/200 | train_loss 0.7014 | train_acc 93.8132 | valid_loss 0.6253 | valid_accuracy 97.5911 | lr 0.0001
+[INFO] train.py:156 > Epoch 171/200 | train_loss 0.6946 | train_acc 94.1926 | valid_loss 0.6247 | valid_accuracy 97.5586 | lr 0.0001
+[INFO] train.py:156 > Epoch 172/200 | train_loss 0.6943 | train_acc 94.2603 | valid_loss 0.6246 | valid_accuracy 97.7539 | lr 0.0001
+[INFO] train.py:156 > Epoch 173/200 | train_loss 0.6910 | train_acc 94.3145 | valid_loss 0.6250 | valid_accuracy 97.5911 | lr 0.0000
+[INFO] train.py:156 > Epoch 174/200 | train_loss 0.6979 | train_acc 93.9984 | valid_loss 0.6248 | valid_accuracy 97.6562 | lr 0.0000
+[INFO] train.py:156 > Epoch 175/200 | train_loss 0.6914 | train_acc 94.3461 | valid_loss 0.6244 | valid_accuracy 97.7214 | lr 0.0000
+[INFO] train.py:156 > Epoch 176/200 | train_loss 0.6915 | train_acc 94.4996 | valid_loss 0.6260 | valid_accuracy 97.7214 | lr 0.0000
+[INFO] train.py:156 > Epoch 177/200 | train_loss 0.6926 | train_acc 94.3009 | valid_loss 0.6260 | valid_accuracy 97.6562 | lr 0.0000
+[INFO] train.py:156 > Epoch 178/200 | train_loss 0.6930 | train_acc 94.2964 | valid_loss 0.6249 | valid_accuracy 97.6237 | lr 0.0000
+[INFO] train.py:156 > Epoch 179/200 | train_loss 0.6952 | train_acc 94.3100 | valid_loss 0.6232 | valid_accuracy 97.6888 | lr 0.0000
+[INFO] train.py:156 > Epoch 180/200 | train_loss 0.6870 | train_acc 94.4319 | valid_loss 0.6247 | valid_accuracy 97.6237 | lr 0.0000
+[INFO] train.py:156 > Epoch 181/200 | train_loss 0.6884 | train_acc 94.5087 | valid_loss 0.6260 | valid_accuracy 97.6237 | lr 0.0000
+[INFO] train.py:156 > Epoch 182/200 | train_loss 0.6926 | train_acc 94.2151 | valid_loss 0.6261 | valid_accuracy 97.5260 | lr 0.0000
+[INFO] train.py:156 > Epoch 183/200 | train_loss 0.6894 | train_acc 94.4364 | valid_loss 0.6272 | valid_accuracy 97.6237 | lr 0.0000
+[INFO] train.py:156 > Epoch 184/200 | train_loss 0.6856 | train_acc 94.7164 | valid_loss 0.6270 | valid_accuracy 97.6237 | lr 0.0000
+[INFO] train.py:156 > Epoch 185/200 | train_loss 0.6881 | train_acc 94.3958 | valid_loss 0.6272 | valid_accuracy 97.4609 | lr 0.0000
+[INFO] train.py:156 > Epoch 186/200 | train_loss 0.6839 | train_acc 94.6712 | valid_loss 0.6263 | valid_accuracy 97.4609 | lr 0.0000
+[INFO] train.py:156 > Epoch 187/200 | train_loss 0.6852 | train_acc 94.6216 | valid_loss 0.6273 | valid_accuracy 97.4935 | lr 0.0000
+[INFO] train.py:156 > Epoch 188/200 | train_loss 0.6916 | train_acc 94.2693 | valid_loss 0.6264 | valid_accuracy 97.5260 | lr 0.0000
+[INFO] train.py:156 > Epoch 189/200 | train_loss 0.6900 | train_acc 94.3777 | valid_loss 0.6264 | valid_accuracy 97.6237 | lr 0.0000
+[INFO] train.py:156 > Epoch 190/200 | train_loss 0.6864 | train_acc 94.6577 | valid_loss 0.6270 | valid_accuracy 97.5260 | lr 0.0000
+[INFO] train.py:156 > Epoch 191/200 | train_loss 0.6901 | train_acc 94.4048 | valid_loss 0.6270 | valid_accuracy 97.5260 | lr 0.0000
+[INFO] train.py:156 > Epoch 192/200 | train_loss 0.6879 | train_acc 94.4680 | valid_loss 0.6273 | valid_accuracy 97.5260 | lr 0.0000
+[INFO] train.py:156 > Epoch 193/200 | train_loss 0.6888 | train_acc 94.4319 | valid_loss 0.6271 | valid_accuracy 97.4935 | lr 0.0000
+[INFO] train.py:156 > Epoch 194/200 | train_loss 0.6886 | train_acc 94.4906 | valid_loss 0.6268 | valid_accuracy 97.4935 | lr 0.0000
+[INFO] train.py:156 > Epoch 195/200 | train_loss 0.6884 | train_acc 94.4003 | valid_loss 0.6269 | valid_accuracy 97.4935 | lr 0.0000
+[INFO] train.py:156 > Epoch 196/200 | train_loss 0.6895 | train_acc 94.5132 | valid_loss 0.6269 | valid_accuracy 97.5260 | lr 0.0000
+[INFO] train.py:156 > Epoch 197/200 | train_loss 0.6897 | train_acc 94.3958 | valid_loss 0.6269 | valid_accuracy 97.4609 | lr 0.0000
+[INFO] train.py:156 > Epoch 198/200 | train_loss 0.6817 | train_acc 94.8067 | valid_loss 0.6269 | valid_accuracy 97.4609 | lr 0.0000
+[INFO] train.py:156 > Epoch 199/200 | train_loss 0.6910 | train_acc 94.3416 | valid_loss 0.6269 | valid_accuracy 97.4609 | lr 0.0000
+[INFO] train.py:156 > Epoch 200/200 | train_loss 0.6898 | train_acc 94.3687 | valid_loss 0.6269 | valid_accuracy 97.4609 | lr 0.0000
+[INFO] train.py:181 > test_loss 0.6185 | test_acc 0.9805| f1_score 0.2470
+[INFO] main.py:105 > ======== Summary =======
+[INFO] main.py:106 > kwmt-192-12_v1_17 parameters: 5192844
+[INFO] main.py:107 > Total time 16285.980618715286, Avg: 81.42990309357643s
