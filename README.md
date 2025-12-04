@@ -1,5 +1,6 @@
 # KWM
-Keyword Mamba - Official PyTorch Implementation
+Keyword Mamba - Official PyTorch Implementation \
+Accepted by Computer Speech & Language
 
 # TorchKWS
 AI Research into Spoken Keyword Spotting. 
